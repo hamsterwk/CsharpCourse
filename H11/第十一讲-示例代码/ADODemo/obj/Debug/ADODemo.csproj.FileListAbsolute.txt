@@ -1,0 +1,23 @@
+C:\Users\jiaxy\source\repos\ch11\order-ef-winform\ADODemo\bin\Debug\ADODemo.exe.config
+C:\Users\jiaxy\source\repos\ch11\order-ef-winform\ADODemo\bin\Debug\ADODemo.exe
+C:\Users\jiaxy\source\repos\ch11\order-ef-winform\ADODemo\bin\Debug\ADODemo.pdb
+C:\Users\jiaxy\source\repos\ch11\order-ef-winform\ADODemo\bin\Debug\Google.Protobuf.dll
+C:\Users\jiaxy\source\repos\ch11\order-ef-winform\ADODemo\bin\Debug\MySql.Data.dll
+C:\Users\jiaxy\source\repos\ch11\order-ef-winform\ADODemo\bin\Debug\Google.Protobuf.xml
+C:\Users\jiaxy\source\repos\ch11\order-ef-winform\ADODemo\bin\Debug\MySql.Data.xml
+C:\Users\jiaxy\source\repos\ch11\order-ef-winform\ADODemo\obj\Debug\ADODemo.csprojAssemblyReference.cache
+C:\Users\jiaxy\source\repos\ch11\order-ef-winform\ADODemo\obj\Debug\ADODemo.csproj.CoreCompileInputs.cache
+C:\Users\jiaxy\source\repos\ch11\order-ef-winform\ADODemo\obj\Debug\ADODemo.csproj.CopyComplete
+C:\Users\jiaxy\source\repos\ch11\order-ef-winform\ADODemo\obj\Debug\ADODemo.exe
+C:\Users\jiaxy\source\repos\ch11\order-ef-winform\ADODemo\obj\Debug\ADODemo.pdb
+D:\prog C#\H11\第十一讲-示例代码\ADODemo\bin\Debug\ADODemo.exe.config
+D:\prog C#\H11\第十一讲-示例代码\ADODemo\bin\Debug\ADODemo.exe
+D:\prog C#\H11\第十一讲-示例代码\ADODemo\bin\Debug\ADODemo.pdb
+D:\prog C#\H11\第十一讲-示例代码\ADODemo\bin\Debug\Google.Protobuf.dll
+D:\prog C#\H11\第十一讲-示例代码\ADODemo\bin\Debug\MySql.Data.dll
+D:\prog C#\H11\第十一讲-示例代码\ADODemo\bin\Debug\Google.Protobuf.xml
+D:\prog C#\H11\第十一讲-示例代码\ADODemo\bin\Debug\MySql.Data.xml
+D:\prog C#\H11\第十一讲-示例代码\ADODemo\obj\Debug\ADODemo.csprojAssemblyReference.cache
+D:\prog C#\H11\第十一讲-示例代码\ADODemo\obj\Debug\ADODemo.csproj.CopyComplete
+D:\prog C#\H11\第十一讲-示例代码\ADODemo\obj\Debug\ADODemo.exe
+D:\prog C#\H11\第十一讲-示例代码\ADODemo\obj\Debug\ADODemo.pdb

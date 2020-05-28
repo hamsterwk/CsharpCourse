@@ -1,0 +1,8 @@
+D:\prog C#\H5\H5\bin\Debug\netstandard2.0\H5.deps.json
+D:\prog C#\H5\H5\bin\Debug\netstandard2.0\H5.dll
+D:\prog C#\H5\H5\bin\Debug\netstandard2.0\H5.pdb
+D:\prog C#\H5\H5\obj\Debug\netstandard2.0\H5.AssemblyInfoInputs.cache
+D:\prog C#\H5\H5\obj\Debug\netstandard2.0\H5.AssemblyInfo.cs
+D:\prog C#\H5\H5\obj\Debug\netstandard2.0\H5.dll
+D:\prog C#\H5\H5\obj\Debug\netstandard2.0\H5.pdb
+D:\prog C#\H5\H5\obj\Debug\netstandard2.0\H5.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+D:\prog C#\H3T\H3T\obj\Debug\netcoreapp3.1\H3T.csprojAssemblyReference.cache
+D:\prog C#\H3T\H3T\obj\Debug\netcoreapp3.1\H3T.AssemblyInfoInputs.cache
+D:\prog C#\H3T\H3T\obj\Debug\netcoreapp3.1\H3T.AssemblyInfo.cs
+D:\prog C#\H3T\H3T\bin\Debug\netcoreapp3.1\H3T.exe
+D:\prog C#\H3T\H3T\bin\Debug\netcoreapp3.1\H3T.deps.json
+D:\prog C#\H3T\H3T\bin\Debug\netcoreapp3.1\H3T.runtimeconfig.json
+D:\prog C#\H3T\H3T\bin\Debug\netcoreapp3.1\H3T.runtimeconfig.dev.json
+D:\prog C#\H3T\H3T\bin\Debug\netcoreapp3.1\H3T.dll
+D:\prog C#\H3T\H3T\bin\Debug\netcoreapp3.1\H3T.pdb
+D:\prog C#\H3T\H3T\obj\Debug\netcoreapp3.1\H3T.dll
+D:\prog C#\H3T\H3T\obj\Debug\netcoreapp3.1\H3T.pdb

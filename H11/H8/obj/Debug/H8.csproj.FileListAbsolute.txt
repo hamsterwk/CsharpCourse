@@ -1,0 +1,15 @@
+D:\prog C#\H8\H8\bin\Debug\H8.exe.config
+D:\prog C#\H8\H8\bin\Debug\H8.exe
+D:\prog C#\H8\H8\bin\Debug\H8.pdb
+D:\prog C#\H8\H8\bin\Debug\H5.dll
+D:\prog C#\H8\H8\bin\Debug\H5.pdb
+D:\prog C#\H8\H8\obj\Debug\H8.csprojAssemblyReference.cache
+D:\prog C#\H8\H8\obj\Debug\H8.MainForm.resources
+D:\prog C#\H8\H8\obj\Debug\H8.Properties.Resources.resources
+D:\prog C#\H8\H8\obj\Debug\H8.csproj.GenerateResource.cache
+D:\prog C#\H8\H8\obj\Debug\H8.csproj.CopyComplete
+D:\prog C#\H8\H8\obj\Debug\H8.exe
+D:\prog C#\H8\H8\obj\Debug\H8.pdb
+D:\prog C#\H8\H8\obj\Debug\H8.AddItem.resources
+D:\prog C#\H8\H8\obj\Debug\H8.AddOrder.resources
+D:\prog C#\H8\H8\obj\Debug\H8.Input.resources

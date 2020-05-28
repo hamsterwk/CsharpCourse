@@ -1,0 +1,11 @@
+D:\prog C#\H4T1\H4T1\bin\Debug\netcoreapp3.1\H4T1.exe
+D:\prog C#\H4T1\H4T1\bin\Debug\netcoreapp3.1\H4T1.deps.json
+D:\prog C#\H4T1\H4T1\bin\Debug\netcoreapp3.1\H4T1.runtimeconfig.json
+D:\prog C#\H4T1\H4T1\bin\Debug\netcoreapp3.1\H4T1.runtimeconfig.dev.json
+D:\prog C#\H4T1\H4T1\bin\Debug\netcoreapp3.1\H4T1.dll
+D:\prog C#\H4T1\H4T1\bin\Debug\netcoreapp3.1\H4T1.pdb
+D:\prog C#\H4T1\H4T1\obj\Debug\netcoreapp3.1\H4T1.csprojAssemblyReference.cache
+D:\prog C#\H4T1\H4T1\obj\Debug\netcoreapp3.1\H4T1.AssemblyInfoInputs.cache
+D:\prog C#\H4T1\H4T1\obj\Debug\netcoreapp3.1\H4T1.AssemblyInfo.cs
+D:\prog C#\H4T1\H4T1\obj\Debug\netcoreapp3.1\H4T1.dll
+D:\prog C#\H4T1\H4T1\obj\Debug\netcoreapp3.1\H4T1.pdb
